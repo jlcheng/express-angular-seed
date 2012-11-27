@@ -7,5 +7,4 @@ To use:
 
     $ git clone https://github.com/jlcheng/express-angular-seed
     $ cd express-angular-seed
-    $ npm install
-    $ node app
+    $ ./server.sh
